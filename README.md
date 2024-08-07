@@ -19,4 +19,12 @@ Welcome to FoodieDelight Admin, the backend management system for the FoodieDeli
 *  Nodemon: For auto-reloading during development.
 
 ## App preview
-
+![image](https://github.com/amitprasad1403/foodiedelight-admin/blob/main/fda1.png)
+![image](https://github.com/amitprasad1403/foodiedelight-admin/blob/main/fda2.png)
+![image](https://github.com/amitprasad1403/foodiedelight-admin/blob/main/fda3.png)
+![image](https://github.com/amitprasad1403/foodiedelight-admin/blob/main/fda4.png)
+![image](https://github.com/amitprasad1403/foodiedelight-admin/blob/main/fda5.png)
+![image](https://github.com/amitprasad1403/foodiedelight-admin/blob/main/fda6.png)
+![image](https://github.com/amitprasad1403/foodiedelight-admin/blob/main/fda7.png)
+![image](https://github.com/amitprasad1403/foodiedelight-admin/blob/main/fda8.png)
+![image](https://github.com/amitprasad1403/foodiedelight-admin/blob/main/fda9.png)
